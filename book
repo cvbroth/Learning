@@ -1,3 +1,4 @@
 Below are some common commands
 git add <file>  // staging a file 
 git commit -m xxx // saving staged changes to the local repository
+git log //displaying the commit history
